@@ -1,0 +1,1701 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+  <External>null</External>
+  <External>nil</External>
+  <Item class="Workspace" referent="RBX0">
+    <Properties>
+      <string name="Name">Workspace</string>
+      <bool name="FilteringEnabled">true</bool>
+    </Properties>
+    <Item class="SpawnLocation" referent="RBX1">
+      <Properties>
+        <string name="Name">SpawnLocation</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">4282962380</uint>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>1</Y><Z>18</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>14</X><Y>1</Y><Z>14</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    
+    <Item class="Part" referent="RBX10">
+      <Properties>
+        <string name="Name">MesaGigante</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">8869940</uint>
+        <token name="Material">512</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>-2</Y><Z>-550</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>260</X><Y>4</Y><Z>1500</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX11">
+      <Properties>
+        <string name="Name">Pista_1_Caderno</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">16119290</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.25</Y><Z>-140</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>54</X><Y>0.5</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX12">
+      <Properties>
+        <string name="Name">Pista_1_Caderno_BordaEsq</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">4631295</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.35</float>
+        <CoordinateFrame name="CFrame">
+          <X>-28</X><Y>1.5</Y><Z>-140</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>2</X><Y>3</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX13">
+      <Properties>
+        <string name="Name">Pista_1_Caderno_BordaDir</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">4631295</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.35</float>
+        <CoordinateFrame name="CFrame">
+          <X>28</X><Y>1.5</Y><Z>-140</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>2</X><Y>3</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX14">
+      <Properties>
+        <string name="Name">Pista_2_Quadriculada</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">14151935</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.25</Y><Z>-460</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>54</X><Y>0.5</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX15">
+      <Properties>
+        <string name="Name">Pista_2_Quadriculada_BordaEsq</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">4631295</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.35</float>
+        <CoordinateFrame name="CFrame">
+          <X>-28</X><Y>1.5</Y><Z>-460</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>2</X><Y>3</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX16">
+      <Properties>
+        <string name="Name">Pista_2_Quadriculada_BordaDir</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">4631295</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.35</float>
+        <CoordinateFrame name="CFrame">
+          <X>28</X><Y>1.5</Y><Z>-460</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>2</X><Y>3</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX17">
+      <Properties>
+        <string name="Name">Pista_3_CartolinaNeon</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">2961995</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.25</Y><Z>-780</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>54</X><Y>0.5</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX18">
+      <Properties>
+        <string name="Name">Pista_3_CartolinaNeon_BordaEsq</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">4631295</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.35</float>
+        <CoordinateFrame name="CFrame">
+          <X>-28</X><Y>1.5</Y><Z>-780</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>2</X><Y>3</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX19">
+      <Properties>
+        <string name="Name">Pista_3_CartolinaNeon_BordaDir</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">4631295</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.35</float>
+        <CoordinateFrame name="CFrame">
+          <X>28</X><Y>1.5</Y><Z>-780</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>2</X><Y>3</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX20">
+      <Properties>
+        <string name="Name">Pista_4_PergaminhoDourado</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">16769420</uint>
+        <token name="Material">1088</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.25</Y><Z>-1100</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>54</X><Y>0.5</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX21">
+      <Properties>
+        <string name="Name">Pista_4_PergaminhoDourado_BordaEsq</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">4631295</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.35</float>
+        <CoordinateFrame name="CFrame">
+          <X>-28</X><Y>1.5</Y><Z>-1100</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>2</X><Y>3</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX22">
+      <Properties>
+        <string name="Name">Pista_4_PergaminhoDourado_BordaDir</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">4631295</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.35</float>
+        <CoordinateFrame name="CFrame">
+          <X>28</X><Y>1.5</Y><Z>-1100</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>2</X><Y>3</Y><Z>310</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX23">
+      <Properties>
+        <string name="Name">Marca_50m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-50</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX24">
+      <Properties>
+        <string name="Name">Marca_100m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-100</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX25">
+      <Properties>
+        <string name="Name">Marca_150m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-150</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX26">
+      <Properties>
+        <string name="Name">Marca_200m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-200</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX27">
+      <Properties>
+        <string name="Name">Marca_250m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-250</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX28">
+      <Properties>
+        <string name="Name">Marca_300m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-300</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX29">
+      <Properties>
+        <string name="Name">Marca_350m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-350</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX30">
+      <Properties>
+        <string name="Name">Marca_400m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-400</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX31">
+      <Properties>
+        <string name="Name">Marca_450m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-450</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX32">
+      <Properties>
+        <string name="Name">Marca_500m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-500</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX33">
+      <Properties>
+        <string name="Name">Marca_550m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-550</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX34">
+      <Properties>
+        <string name="Name">Marca_600m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-600</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX35">
+      <Properties>
+        <string name="Name">Marca_650m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-650</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX36">
+      <Properties>
+        <string name="Name">Marca_700m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-700</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX37">
+      <Properties>
+        <string name="Name">Marca_750m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-750</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX38">
+      <Properties>
+        <string name="Name">Marca_800m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-800</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX39">
+      <Properties>
+        <string name="Name">Marca_850m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-850</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX40">
+      <Properties>
+        <string name="Name">Marca_900m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-900</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX41">
+      <Properties>
+        <string name="Name">Marca_950m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-950</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX42">
+      <Properties>
+        <string name="Name">Marca_1000m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-1000</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX43">
+      <Properties>
+        <string name="Name">Marca_1050m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-1050</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX44">
+      <Properties>
+        <string name="Name">Marca_1100m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-1100</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX45">
+      <Properties>
+        <string name="Name">Marca_1150m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-1150</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX46">
+      <Properties>
+        <string name="Name">Marca_1200m</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">false</bool>
+        <uint name="Color3uint8">16734810</uint>
+        <token name="Material">288</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>0</X><Y>0.52</Y><Z>-1200</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>52</X><Y>0.08</Y><Z>1.2</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX47">
+      <Properties>
+        <string name="Name">BorrachaGigante_Branca</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">16119285</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>-42</X><Y>4</Y><Z>-10</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>14</X><Y>8</Y><Z>22</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX48">
+      <Properties>
+        <string name="Name">BorrachaGigante_CapaAzul</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">2652390</uint>
+        <token name="Material">256</token>
+        <token name="shape">1</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>-42</X><Y>4</Y><Z>-4</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>14.4</X><Y>8.4</Y><Z>12</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX49">
+      <Properties>
+        <string name="Name">EstojoDisplay_1</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">59030</uint>
+        <token name="Material">288</token>
+        <token name="shape">0</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>38</X><Y>4.5</Y><Z>5</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>9</X><Y>9</Y><Z>9</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+    <Item class="Part" referent="RBX50">
+      <Properties>
+        <string name="Name">EstojoDisplay_2</string>
+        <bool name="Anchored">true</bool>
+        <bool name="CanCollide">true</bool>
+        <uint name="Color3uint8">11814655</uint>
+        <token name="Material">288</token>
+        <token name="shape">0</token>
+        <float name="Transparency">0.0</float>
+        <CoordinateFrame name="CFrame">
+          <X>38</X><Y>4.5</Y><Z>-15</Z>
+          <R00>1</R00><R01>0</R01><R02>0</R02>
+          <R10>0</R10><R11>1</R11><R12>0</R12>
+          <R20>0</R20><R21>0</R21><R22>1</R22>
+        </CoordinateFrame>
+        <Vector3 name="size">
+          <X>9</X><Y>9</Y><Z>9</Z>
+        </Vector3>
+      </Properties>
+    </Item>
+  </Item>
+  <Item class="ServerScriptService" referent="RBX2">
+    <Properties>
+      <string name="Name">ServerScriptService</string>
+    </Properties>
+    <Item class="Script" referent="RBX3">
+      <Properties>
+        <string name="Name">SistemaSimuladorLapis</string>
+        <ProtectedString name="Source">local Players = game:GetService(&quot;Players&quot;)
+local ReplicatedStorage = game:GetService(&quot;ReplicatedStorage&quot;)
+local Debris = game:GetService(&quot;Debris&quot;)
+
+-- Criar RemoteEvents e RemoteFunctions
+local Remotes = Instance.new(&quot;Folder&quot;)
+Remotes.Name = &quot;SimuladorRemotes&quot;
+Remotes.Parent = ReplicatedStorage
+
+local ToggleRiscar = Instance.new(&quot;RemoteEvent&quot;)
+ToggleRiscar.Name = &quot;ToggleRiscar&quot;
+ToggleRiscar.Parent = Remotes
+
+local ComprarLapis = Instance.new(&quot;RemoteEvent&quot;)
+ComprarLapis.Name = &quot;ComprarLapis&quot;
+ComprarLapis.Parent = Remotes
+
+local ComprarVelocidade = Instance.new(&quot;RemoteEvent&quot;)
+ComprarVelocidade.Name = &quot;ComprarVelocidade&quot;
+ComprarVelocidade.Parent = Remotes
+
+local AbrirEstojo = Instance.new(&quot;RemoteEvent&quot;)
+AbrirEstojo.Name = &quot;AbrirEstojo&quot;
+AbrirEstojo.Parent = Remotes
+
+local FazerRebirth = Instance.new(&quot;RemoteEvent&quot;)
+FazerRebirth.Name = &quot;FazerRebirth&quot;
+FazerRebirth.Parent = Remotes
+
+local DesbloquearArea = Instance.new(&quot;RemoteEvent&quot;)
+DesbloquearArea.Name = &quot;DesbloquearArea&quot;
+DesbloquearArea.Parent = Remotes
+
+local AtualizarHUD = Instance.new(&quot;RemoteEvent&quot;)
+AtualizarHUD.Name = &quot;AtualizarHUD&quot;
+AtualizarHUD.Parent = Remotes
+
+local Notificar = Instance.new(&quot;RemoteEvent&quot;)
+Notificar.Name = &quot;Notificar&quot;
+Notificar.Parent = Remotes
+
+local PetSorteado = Instance.new(&quot;RemoteEvent&quot;)
+PetSorteado.Name = &quot;PetSorteado&quot;
+PetSorteado.Parent = Remotes
+
+-- Configuracoes do Jogo
+local LapisLista = {
+	{Nome = &quot;Lápis Mordido&quot;, Custo = 0, TintaMax = 100, Consumo = 8, Mult = 1.0, Largura = 0.6, Cor = Color3.fromRGB(255, 200, 60)},
+	{Nome = &quot;Lápis Escolar HB&quot;, Custo = 60, TintaMax = 180, Consumo = 7.5, Mult = 1.6, Largura = 0.9, Cor = Color3.fromRGB(255, 170, 0)},
+	{Nome = &quot;Lápis de Cor Neon&quot;, Custo = 220, TintaMax = 300, Consumo = 7.0, Mult = 2.8, Largura = 1.2, Cor = Color3.fromRGB(0, 255, 170)},
+	{Nome = &quot;Lapiseira Técnica&quot;, Custo = 750, TintaMax = 500, Consumo = 6.5, Mult = 5.0, Largura = 1.5, Cor = Color3.fromRGB(0, 170, 255)},
+	{Nome = &quot;Caneta Esferográfica&quot;, Custo = 2200, TintaMax = 800, Consumo = 6.0, Mult = 9.0, Largura = 1.9, Cor = Color3.fromRGB(80, 100, 255)},
+	{Nome = &quot;Marca-Texto Radioativo&quot;, Custo = 6500, TintaMax = 1300, Consumo = 5.5, Mult = 16.0, Largura = 2.4, Cor = Color3.fromRGB(170, 255, 0)},
+	{Nome = &quot;Caneta Tinteiro Ouro&quot;, Custo = 20000, TintaMax = 2100, Consumo = 5.0, Mult = 30.0, Largura = 3.0, Cor = Color3.fromRGB(255, 215, 0)},
+	{Nome = &quot;Caneta Cósmica&quot;, Custo = 65000, TintaMax = 3500, Consumo = 4.2, Mult = 60.0, Largura = 3.8, Cor = Color3.fromRGB(220, 60, 255)}
+}
+
+local EstojosLista = {
+	[1] = {
+		Nome = &quot;Estojo Escolar&quot;,
+		Custo = 100,
+		Pets = {
+			{Nome = &quot;Borracha Saltitante&quot;, Raridade = &quot;Comum&quot;, Chance = 55, Mult = 1.3, Cor = Color3.fromRGB(255, 140, 160), Forma = Enum.PartType.Block},
+			{Nome = &quot;Apontador Azul&quot;, Raridade = &quot;Raro&quot;, Chance = 30, Mult = 1.8, Cor = Color3.fromRGB(70, 170, 255), Forma = Enum.PartType.Cylinder},
+			{Nome = &quot;Clipe de Prata&quot;, Raridade = &quot;Épico&quot;, Chance = 12, Mult = 2.8, Cor = Color3.fromRGB(210, 220, 235), Forma = Enum.PartType.Ball},
+			{Nome = &quot;Régua Dourada&quot;, Raridade = &quot;Lendário&quot;, Chance = 3, Mult = 5.0, Cor = Color3.fromRGB(255, 215, 0), Forma = Enum.PartType.Block}
+		}
+	},
+	[2] = {
+		Nome = &quot;Estojo Cósmico&quot;,
+		Custo = 2500,
+		Pets = {
+			{Nome = &quot;Caneta Gel Neon&quot;, Raridade = &quot;Comum&quot;, Chance = 50, Mult = 3.5, Cor = Color3.fromRGB(0, 255, 180), Forma = Enum.PartType.Cylinder},
+			{Nome = &quot;Compasso Estelar&quot;, Raridade = &quot;Raro&quot;, Chance = 32, Mult = 6.0, Cor = Color3.fromRGB(140, 100, 255), Forma = Enum.PartType.Ball},
+			{Nome = &quot;Borracha Quântica&quot;, Raridade = &quot;Épico&quot;, Chance = 14, Mult = 11.0, Cor = Color3.fromRGB(255, 60, 200), Forma = Enum.PartType.Block},
+			{Nome = &quot;Tinteiro Galáctico&quot;, Raridade = &quot;Lendário&quot;, Chance = 4, Mult = 22.0, Cor = Color3.fromRGB(255, 240, 100), Forma = Enum.PartType.Ball}
+		}
+	}
+}
+
+local AreasLista = {
+	{Nome = &quot;Caderno de Caligrafia&quot;, Custo = 0, Mult = 1.0, ZStart = 0},
+	{Nome = &quot;Folha Quadriculada&quot;, Custo = 350, Mult = 2.5, ZStart = -320},
+	{Nome = &quot;Cartolina Neon&quot;, Custo = 2500, Mult = 6.0, ZStart = -640},
+	{Nome = &quot;Pergaminho Dourado&quot;, Custo = 15000, Mult = 15.0, ZStart = -960}
+}
+
+local PlayerDados = {}
+
+local function CalcularCustoVelocidade(nivel)
+	return math.floor(40 * (1.45 ^ (nivel - 1)))
+end
+
+local function CalcularCustoRebirth(rebirths)
+	return math.floor(5000 * (2.5 ^ rebirths))
+end
+
+local function AtualizarVisualLapis(player)
+	local dados = PlayerDados[player.UserId]
+	if not dados then return end
+	local char = player.Character
+	if not char then return end
+
+	local oldTool = char:FindFirstChild(&quot;LapisEquipado&quot;) or player.Backpack:FindFirstChild(&quot;LapisEquipado&quot;)
+	if oldTool then oldTool:Destroy() end
+
+	local info = LapisLista[dados.LapisNivel]
+	local modelo = Instance.new(&quot;Part&quot;)
+	modelo.Name = &quot;LapisEquipado&quot;
+	modelo.Size = Vector3.new(0.45 + dados.LapisNivel * 0.08, 0.45 + dados.LapisNivel * 0.08, 3.2 + dados.LapisNivel * 0.35)
+	modelo.Color = info.Cor
+	modelo.Material = (dados.LapisNivel &gt;= 6) and Enum.Material.Neon or Enum.Material.SmoothPlastic
+	modelo.CanCollide = false
+	modelo.Massless = true
+
+	local ponta = Instance.new(&quot;Part&quot;)
+	ponta.Name = &quot;Ponta&quot;
+	ponta.Size = Vector3.new(0.35, 0.35, 0.7)
+	ponta.Color = Color3.fromRGB(30, 30, 35)
+	ponta.Material = Enum.Material.Neon
+	ponta.CanCollide = false
+	ponta.Massless = true
+	ponta.Parent = modelo
+
+	local weldPonta = Instance.new(&quot;WeldConstraint&quot;)
+	weldPonta.Part0 = modelo
+	weldPonta.Part1 = ponta
+	weldPonta.Parent = ponta
+
+	local hand = char:FindFirstChild(&quot;RightHand&quot;) or char:FindFirstChild(&quot;Right Arm&quot;)
+	if hand then
+		modelo.CFrame = hand.CFrame * CFrame.new(0, -0.5, -1.2) * CFrame.Angles(math.rad(-55), 0, 0)
+		ponta.CFrame = modelo.CFrame * CFrame.new(0, 0, -(modelo.Size.Z / 2 + 0.3))
+		modelo.Parent = char
+		local weld = Instance.new(&quot;WeldConstraint&quot;)
+		weld.Part0 = hand
+		weld.Part1 = modelo
+		weld.Parent = modelo
+	end
+end
+
+local function AtualizarVisualPets(player)
+	local dados = PlayerDados[player.UserId]
+	if not dados then return end
+	local char = player.Character
+	if not char then return end
+
+	local oldFolder = char:FindFirstChild(&quot;PetsAtivos&quot;)
+	if oldFolder then oldFolder:Destroy() end
+
+	local folder = Instance.new(&quot;Folder&quot;)
+	folder.Name = &quot;PetsAtivos&quot;
+	folder.Parent = char
+
+	for i, pet in ipairs(dados.MelhoresPets) do
+		local p = Instance.new(&quot;Part&quot;)
+		p.Name = &quot;Pet_&quot; .. i
+		p.Shape = pet.Forma or Enum.PartType.Block
+		p.Size = Vector3.new(1.5, 1.5, 1.5)
+		p.Color = pet.Cor
+		p.Material = Enum.Material.Neon
+		p.CanCollide = false
+		p.Anchored = true
+		p.Parent = folder
+
+		local bb = Instance.new(&quot;BillboardGui&quot;)
+		bb.Size = UDim2.new(0, 120, 0, 36)
+		bb.StudsOffset = Vector3.new(0, 1.6, 0)
+		bb.AlwaysOnTop = true
+		bb.Parent = p
+
+		local lbl = Instance.new(&quot;TextLabel&quot;)
+		lbl.Size = UDim2.new(1, 0, 1, 0)
+		lbl.BackgroundTransparency = 1
+		lbl.Text = pet.Nome .. &quot; (x&quot; .. pet.Mult .. &quot;)&quot;
+		lbl.TextColor3 = Color3.new(1, 1, 1)
+		lbl.TextStrokeTransparency = 0.3
+		lbl.Font = Enum.Font.GothamBold
+		lbl.TextScaled = true
+		lbl.Parent = bb
+	end
+end
+
+local function CalcularMultPets(dados)
+	local total = 1.0
+	for _, pet in ipairs(dados.MelhoresPets) do
+		total = total + (pet.Mult - 1.0)
+	end
+	return total
+end
+
+local function EnviarEstado(player)
+	local dados = PlayerDados[player.UserId]
+	if not dados then return end
+
+	local infoLapis = LapisLista[dados.LapisNivel]
+	local proxLapis = LapisLista[dados.LapisNivel + 1]
+	local infoArea = AreasLista[dados.AreaAtual]
+	local proxArea = AreasLista[dados.AreaAtual + 1]
+
+	local pacote = {
+		Moedas = dados.Moedas,
+		Recorde = dados.Recorde,
+		Rebirths = dados.Rebirths,
+		Riscando = dados.Riscando,
+		TintaAtual = dados.TintaAtual,
+		TintaMax = infoLapis.TintaMax,
+		DistanciaAtual = dados.DistanciaAtual,
+		LapisNome = infoLapis.Nome,
+		LapisNivel = dados.LapisNivel,
+		ProxLapisNome = proxLapis and proxLapis.Nome or &quot;MÁXIMO&quot;,
+		ProxLapisCusto = proxLapis and proxLapis.Custo or 0,
+		VelocidadeNivel = dados.VelocidadeNivel,
+		VelocidadeCusto = CalcularCustoVelocidade(dados.VelocidadeNivel),
+		AreaNome = infoArea.Nome,
+		AreaNivel = dados.AreaAtual,
+		ProxAreaNome = proxArea and proxArea.Nome or &quot;TODAS ABERTAS&quot;,
+		ProxAreaCusto = proxArea and proxArea.Custo or 0,
+		RebirthCusto = CalcularCustoRebirth(dados.Rebirths),
+		MultTotal = string.format(&quot;%.1f&quot;, infoLapis.Mult * infoArea.Mult * CalcularMultPets(dados) * (1 + dados.Rebirths * 0.75)),
+		Pets = dados.MelhoresPets
+	}
+	AtualizarHUD:FireClient(player, pacote)
+end
+
+local function FinalizarRisco(player, motivo)
+	local dados = PlayerDados[player.UserId]
+	if not dados or not dados.Riscando then return end
+
+	dados.Riscando = false
+	local infoLapis = LapisLista[dados.LapisNivel]
+	local infoArea = AreasLista[dados.AreaAtual]
+	local multPets = CalcularMultPets(dados)
+	local multRebirth = 1 + (dados.Rebirths * 0.75)
+
+	local dist = math.floor(dados.DistanciaAtual)
+	local ganho = math.floor(dist * 0.6 * infoLapis.Mult * infoArea.Mult * multPets * multRebirth)
+
+	dados.Moedas = dados.Moedas + ganho
+	if dist &gt; dados.Recorde then
+		dados.Recorde = dist
+	end
+
+	local ls = player:FindFirstChild(&quot;leaderstats&quot;)
+	if ls then
+		ls.Moedas.Value = dados.Moedas
+		ls.Recorde.Value = dados.Recorde
+		ls.Rebirths.Value = dados.Rebirths
+	end
+
+	dados.TintaAtual = infoLapis.TintaMax
+	dados.DistanciaAtual = 0
+	dados.UltimoPonto = nil
+
+	local char = player.Character
+	if char and char:FindFirstChild(&quot;HumanoidRootPart&quot;) then
+		char.HumanoidRootPart.CFrame = CFrame.new(0, 5, AreasLista[dados.AreaAtual].ZStart + 15)
+	end
+
+	Notificar:FireClient(player, motivo .. &quot; Você riscou &quot; .. dist .. &quot;m e ganhou +&quot; .. ganho .. &quot; Moedas!&quot;)
+	EnviarEstado(player)
+end
+
+ToggleRiscar.OnServerEvent:Connect(function(player)
+	local dados = PlayerDados[player.UserId]
+	if not dados then return end
+
+	if dados.Riscando then
+		FinalizarRisco(player, &quot;Traço finalizado!&quot;)
+	else
+		local infoLapis = LapisLista[dados.LapisNivel]
+		dados.Riscando = true
+		dados.TintaAtual = infoLapis.TintaMax
+		dados.DistanciaAtual = 0
+		dados.UltimoPonto = nil
+
+		local char = player.Character
+		if char and char:FindFirstChild(&quot;HumanoidRootPart&quot;) then
+			local zIni = AreasLista[dados.AreaAtual].ZStart - 10
+			char.HumanoidRootPart.CFrame = CFrame.new(0, 5, zIni)
+			dados.UltimoPonto = Vector3.new(0, 0.6, zIni)
+		end
+		Notificar:FireClient(player, &quot;Corra pela pista para riscar o mais longe possível!&quot;)
+		EnviarEstado(player)
+	end
+end)
+
+ComprarLapis.OnServerEvent:Connect(function(player)
+	local dados = PlayerDados[player.UserId]
+	if not dados or dados.Riscando then return end
+	local prox = LapisLista[dados.LapisNivel + 1]
+	if not prox then
+		Notificar:FireClient(player, &quot;Você já possui a Caneta Cósmica máxima!&quot;)
+		return
+	end
+	if dados.Moedas &gt;= prox.Custo then
+		dados.Moedas = dados.Moedas - prox.Custo
+		dados.LapisNivel = dados.LapisNivel + 1
+		dados.TintaAtual = prox.TintaMax
+		player.leaderstats.Moedas.Value = dados.Moedas
+		AtualizarVisualLapis(player)
+		Notificar:FireClient(player, &quot;Evoluiu para: &quot; .. prox.Nome .. &quot;!&quot;)
+		EnviarEstado(player)
+	else
+		Notificar:FireClient(player, &quot;Moedas insuficientes para evoluir o lápis!&quot;)
+	end
+end)
+
+ComprarVelocidade.OnServerEvent:Connect(function(player)
+	local dados = PlayerDados[player.UserId]
+	if not dados then return end
+	local custo = CalcularCustoVelocidade(dados.VelocidadeNivel)
+	if dados.Moedas &gt;= custo then
+		dados.Moedas = dados.Moedas - custo
+		dados.VelocidadeNivel = dados.VelocidadeNivel + 1
+		player.leaderstats.Moedas.Value = dados.Moedas
+		local char = player.Character
+		if char and char:FindFirstChild(&quot;Humanoid&quot;) then
+			char.Humanoid.WalkSpeed = 18 + (dados.VelocidadeNivel * 2.2)
+		end
+		Notificar:FireClient(player, &quot;Velocidade aumentada para Nível &quot; .. dados.VelocidadeNivel .. &quot;!&quot;)
+		EnviarEstado(player)
+	else
+		Notificar:FireClient(player, &quot;Moedas insuficientes para melhorar a velocidade!&quot;)
+	end
+end)
+
+DesbloquearArea.OnServerEvent:Connect(function(player)
+	local dados = PlayerDados[player.UserId]
+	if not dados or dados.Riscando then return end
+	local prox = AreasLista[dados.AreaAtual + 1]
+	if not prox then
+		Notificar:FireClient(player, &quot;Todas as áreas já foram desbloqueadas!&quot;)
+		return
+	end
+	if dados.Moedas &gt;= prox.Custo then
+		dados.Moedas = dados.Moedas - prox.Custo
+		dados.AreaAtual = dados.AreaAtual + 1
+		player.leaderstats.Moedas.Value = dados.Moedas
+		local char = player.Character
+		if char and char:FindFirstChild(&quot;HumanoidRootPart&quot;) then
+			char.HumanoidRootPart.CFrame = CFrame.new(0, 5, prox.ZStart + 15)
+		end
+		Notificar:FireClient(player, &quot;Área desbloqueada: &quot; .. prox.Nome .. &quot; (x&quot; .. prox.Mult .. &quot; Moedas)!&quot;)
+		EnviarEstado(player)
+	else
+		Notificar:FireClient(player, &quot;Moedas insuficientes para desbloquear esta área!&quot;)
+	end
+end)
+
+AbrirEstojo.OnServerEvent:Connect(function(player, tipoEstojo)
+	local dados = PlayerDados[player.UserId]
+	if not dados then return end
+	local estojo = EstojosLista[tipoEstojo or 1]
+	if not estojo then return end
+
+	if dados.Moedas &lt; estojo.Custo then
+		Notificar:FireClient(player, &quot;Você precisa de &quot; .. estojo.Custo .. &quot; Moedas para abrir o &quot; .. estojo.Nome .. &quot;!&quot;)
+		return
+	end
+
+	dados.Moedas = dados.Moedas - estojo.Custo
+	player.leaderstats.Moedas.Value = dados.Moedas
+
+	local roll = math.random(1, 100)
+	local acumulado = 0
+	local escolhido = estojo.Pets[1]
+	for _, pet in ipairs(estojo.Pets) do
+		acumulado = acumulado + pet.Chance
+		if roll &lt;= acumulado then
+			escolhido = pet
+			break
+		end
+	end
+
+	table.insert(dados.MelhoresPets, {
+		Nome = escolhido.Nome,
+		Raridade = escolhido.Raridade,
+		Mult = escolhido.Mult,
+		Cor = escolhido.Cor,
+		Forma = escolhido.Forma
+	})
+
+	table.sort(dados.MelhoresPets, function(a, b)
+		return a.Mult &gt; b.Mult
+	end)
+
+	while #dados.MelhoresPets &gt; 3 do
+		table.remove(dados.MelhoresPets)
+	end
+
+	AtualizarVisualPets(player)
+	PetSorteado:FireClient(player, escolhido.Nome, escolhido.Raridade, escolhido.Mult)
+	EnviarEstado(player)
+end)
+
+FazerRebirth.OnServerEvent:Connect(function(player)
+	local dados = PlayerDados[player.UserId]
+	if not dados or dados.Riscando then return end
+	local custo = CalcularCustoRebirth(dados.Rebirths)
+	if dados.Moedas &gt;= custo then
+		dados.Moedas = 0
+		dados.LapisNivel = 1
+		dados.VelocidadeNivel = 1
+		dados.AreaAtual = 1
+		dados.Rebirths = dados.Rebirths + 1
+		dados.TintaAtual = LapisLista[1].TintaMax
+
+		player.leaderstats.Moedas.Value = 0
+		player.leaderstats.Rebirths.Value = dados.Rebirths
+
+		local char = player.Character
+		if char then
+			if char:FindFirstChild(&quot;Humanoid&quot;) then
+				char.Humanoid.WalkSpeed = 20
+			end
+			if char:FindFirstChild(&quot;HumanoidRootPart&quot;) then
+				char.HumanoidRootPart.CFrame = CFrame.new(0, 5, 15)
+			end
+		end
+		AtualizarVisualLapis(player)
+		Notificar:FireClient(player, &quot;PASSOU DE ANO (Rebirth #&quot; .. dados.Rebirths .. &quot;)! Bônus permanente de +75% por ano!&quot;)
+		EnviarEstado(player)
+	else
+		Notificar:FireClient(player, &quot;Você precisa de &quot; .. custo .. &quot; Moedas para Passar de Ano!&quot;)
+	end
+end)
+
+Players.PlayerAdded:Connect(function(player)
+	local ls = Instance.new(&quot;Folder&quot;)
+	ls.Name = &quot;leaderstats&quot;
+	ls.Parent = player
+
+	local moedas = Instance.new(&quot;IntValue&quot;)
+	moedas.Name = &quot;Moedas&quot;
+	moedas.Value = 50
+	moedas.Parent = ls
+
+	local recorde = Instance.new(&quot;IntValue&quot;)
+	recorde.Name = &quot;Recorde&quot;
+	recorde.Value = 0
+	recorde.Parent = ls
+
+	local rebirths = Instance.new(&quot;IntValue&quot;)
+	rebirths.Name = &quot;Rebirths&quot;
+	rebirths.Value = 0
+	rebirths.Parent = ls
+
+	PlayerDados[player.UserId] = {
+		Moedas = 50,
+		Recorde = 0,
+		Rebirths = 0,
+		LapisNivel = 1,
+		VelocidadeNivel = 1,
+		AreaAtual = 1,
+		Riscando = false,
+		TintaAtual = 100,
+		DistanciaAtual = 0,
+		UltimoPonto = nil,
+		MelhoresPets = {}
+	}
+
+	player.CharacterAdded:Connect(function(char)
+		task.wait(0.3)
+		local dados = PlayerDados[player.UserId]
+		if dados and char:FindFirstChild(&quot;Humanoid&quot;) then
+			char.Humanoid.WalkSpeed = 18 + (dados.VelocidadeNivel * 2.2)
+		end
+		AtualizarVisualLapis(player)
+		AtualizarVisualPets(player)
+		EnviarEstado(player)
+	end)
+end)
+
+Players.PlayerRemoving:Connect(function(player)
+	PlayerDados[player.UserId] = nil
+end)
+
+-- Loop Principal de Riscar e Animacao dos Pets
+task.spawn(function()
+	local dt = 0.08
+	local angulo = 0
+	while true do
+		task.wait(dt)
+		angulo = angulo + 0.12
+		for _, player in ipairs(Players:GetPlayers()) do
+			local dados = PlayerDados[player.UserId]
+			local char = player.Character
+			local hrp = char and char:FindFirstChild(&quot;HumanoidRootPart&quot;)
+
+			if dados and hrp then
+				-- Animar Pets ao redor do jogador
+				local folderPets = char:FindFirstChild(&quot;PetsAtivos&quot;)
+				if folderPets then
+					for i, p in ipairs(folderPets:GetChildren()) do
+						local offsetAngle = angulo + (i * 2.1)
+						local targetPos = hrp.Position + Vector3.new(math.cos(offsetAngle) * 3.8, 1.5 + math.sin(angulo * 2 + i) * 0.4, math.sin(offsetAngle) * 3.8)
+						p.CFrame = CFrame.new(targetPos) * CFrame.Angles(0, -offsetAngle, 0)
+					end
+				end
+
+				-- Logica de Riscar Linha
+				if dados.Riscando then
+					local infoLapis = LapisLista[dados.LapisNivel]
+					local posAtual = Vector3.new(hrp.Position.X, 0.55, hrp.Position.Z)
+
+					if dados.UltimoPonto then
+						local distTrecho = (posAtual - dados.UltimoPonto).Magnitude
+						if distTrecho &gt; 0.6 then
+							dados.DistanciaAtual = dados.DistanciaAtual + distTrecho
+							local gastoTinta = distTrecho * (infoLapis.Consumo * 0.14)
+							dados.TintaAtual = math.max(0, dados.TintaAtual - gastoTinta)
+
+							-- Criar segmento fisico da linha riscada no chao
+							local traco = Instance.new(&quot;Part&quot;)
+							traco.Name = &quot;TracoRiscado&quot;
+							traco.Anchored = true
+							traco.CanCollide = false
+							traco.Material = Enum.Material.Neon
+							traco.Color = infoLapis.Cor
+							traco.Size = Vector3.new(infoLapis.Largura, 0.18, distTrecho + 0.35)
+							local meio = (dados.UltimoPonto + posAtual) / 2
+							traco.CFrame = CFrame.lookAt(meio, posAtual)
+							traco.Parent = workspace
+							Debris:AddItem(traco, 14)
+
+							dados.UltimoPonto = posAtual
+						else
+							-- Consumo minimo parado para incentivar movimento
+							dados.TintaAtual = math.max(0, dados.TintaAtual - (dt * 2.0))
+						end
+					else
+						dados.UltimoPonto = posAtual
+					end
+
+					if dados.TintaAtual &lt;= 0 then
+						FinalizarRisco(player, &quot;Acabou a tinta!&quot;)
+					else
+						EnviarEstado(player)
+					end
+				end
+			end
+		end
+	end
+end)
+</ProtectedString>
+      </Properties>
+    </Item>
+  </Item>
+  <Item class="StarterPlayer" referent="RBX4">
+    <Properties>
+      <string name="Name">StarterPlayer</string>
+    </Properties>
+    <Item class="StarterPlayerScripts" referent="RBX5">
+      <Properties>
+        <string name="Name">StarterPlayerScripts</string>
+      </Properties>
+      <Item class="LocalScript" referent="RBX6">
+        <Properties>
+          <string name="Name">ClienteHUDLapis</string>
+          <ProtectedString name="Source">local Players = game:GetService(&quot;Players&quot;)
+local ReplicatedStorage = game:GetService(&quot;ReplicatedStorage&quot;)
+local TweenService = game:GetService(&quot;TweenService&quot;)
+
+local player = Players.LocalPlayer
+local Remotes = ReplicatedStorage:WaitForChild(&quot;SimuladorRemotes&quot;)
+
+local ToggleRiscar = Remotes:WaitForChild(&quot;ToggleRiscar&quot;)
+local ComprarLapis = Remotes:WaitForChild(&quot;ComprarLapis&quot;)
+local ComprarVelocidade = Remotes:WaitForChild(&quot;ComprarVelocidade&quot;)
+local AbrirEstojo = Remotes:WaitForChild(&quot;AbrirEstojo&quot;)
+local FazerRebirth = Remotes:WaitForChild(&quot;FazerRebirth&quot;)
+local DesbloquearArea = Remotes:WaitForChild(&quot;DesbloquearArea&quot;)
+local AtualizarHUD = Remotes:WaitForChild(&quot;AtualizarHUD&quot;)
+local Notificar = Remotes:WaitForChild(&quot;Notificar&quot;)
+local PetSorteado = Remotes:WaitForChild(&quot;PetSorteado&quot;)
+
+-- Construir Interface Moderna (ScreenGui)
+local gui = Instance.new(&quot;ScreenGui&quot;)
+gui.Name = &quot;SimuladorLapisGUI&quot;
+gui.ResetOnSpawn = false
+gui.Parent = player:WaitForChild(&quot;PlayerGui&quot;)
+
+local function Arredondar(obj, raio)
+	local c = Instance.new(&quot;UICorner&quot;)
+	c.CornerRadius = UDim.new(0, raio or 12)
+	c.Parent = obj
+end
+
+local function Borda(obj, cor, espessura)
+	local s = Instance.new(&quot;UIStroke&quot;)
+	s.Color = cor or Color3.fromRGB(255, 255, 255)
+	s.Thickness = espessura or 2
+	s.Parent = obj
+end
+
+-- Barra Superior de Status e Tinta
+local topFrame = Instance.new(&quot;Frame&quot;)
+topFrame.Size = UDim2.new(0, 520, 0, 95)
+topFrame.Position = UDim2.new(0.5, -260, 0, 14)
+topFrame.BackgroundColor3 = Color3.fromRGB(25, 28, 38)
+topFrame.BackgroundTransparency = 0.1
+topFrame.Parent = gui
+Arredondar(topFrame, 14)
+Borda(topFrame, Color3.fromRGB(80, 180, 255), 2)
+
+local lblStats = Instance.new(&quot;TextLabel&quot;)
+lblStats.Size = UDim2.new(1, -20, 0, 32)
+lblStats.Position = UDim2.new(0, 10, 0, 6)
+lblStats.BackgroundTransparency = 1
+lblStats.Text = &quot;Moedas: 50 | Recorde: 0m | Mult: x1.0&quot;
+lblStats.TextColor3 = Color3.fromRGB(255, 230, 90)
+lblStats.Font = Enum.Font.GothamBlack
+lblStats.TextSize = 17
+lblStats.Parent = topFrame
+
+local lblEquipado = Instance.new(&quot;TextLabel&quot;)
+lblEquipado.Size = UDim2.new(1, -20, 0, 22)
+lblEquipado.Position = UDim2.new(0, 10, 0, 36)
+lblEquipado.BackgroundTransparency = 1
+lblEquipado.Text = &quot;Lápis Mordido | Área: Caderno de Caligrafia&quot;
+lblEquipado.TextColor3 = Color3.fromRGB(210, 225, 255)
+lblEquipado.Font = Enum.Font.GothamBold
+lblEquipado.TextSize = 14
+lblEquipado.Parent = topFrame
+
+local tintaBg = Instance.new(&quot;Frame&quot;)
+tintaBg.Size = UDim2.new(1, -24, 0, 22)
+tintaBg.Position = UDim2.new(0, 12, 0, 64)
+tintaBg.BackgroundColor3 = Color3.fromRGB(15, 17, 24)
+tintaBg.Parent = topFrame
+Arredondar(tintaBg, 8)
+
+local tintaBar = Instance.new(&quot;Frame&quot;)
+tintaBar.Size = UDim2.new(1, 0, 1, 0)
+tintaBar.BackgroundColor3 = Color3.fromRGB(0, 220, 140)
+tintaBar.Parent = tintaBg
+Arredondar(tintaBar, 8)
+
+local lblTinta = Instance.new(&quot;TextLabel&quot;)
+lblTinta.Size = UDim2.new(1, 0, 1, 0)
+lblTinta.BackgroundTransparency = 1
+lblTinta.Text = &quot;TINTA: 100 / 100 (0m)&quot;
+lblTinta.TextColor3 = Color3.new(1, 1, 1)
+lblTinta.Font = Enum.Font.GothamBlack
+lblTinta.TextSize = 13
+lblTinta.Parent = tintaBg
+
+-- Notificacao Flutuante
+local lblNotif = Instance.new(&quot;TextLabel&quot;)
+lblNotif.Size = UDim2.new(0, 560, 0, 36)
+lblNotif.Position = UDim2.new(0.5, -280, 0, 116)
+lblNotif.BackgroundColor3 = Color3.fromRGB(20, 22, 30)
+lblNotif.BackgroundTransparency = 0.25
+lblNotif.Text = &quot;Clique em COMEÇAR A RISCAR para testar seu lápis!&quot;
+lblNotif.TextColor3 = Color3.fromRGB(120, 255, 180)
+lblNotif.Font = Enum.Font.GothamBold
+lblNotif.TextSize = 15
+lblNotif.Parent = gui
+Arredondar(lblNotif, 10)
+
+-- Botao Principal Central Inferior (Riscar / Parar)
+local btnRiscar = Instance.new(&quot;TextButton&quot;)
+btnRiscar.Size = UDim2.new(0, 310, 0, 58)
+btnRiscar.Position = UDim2.new(0.5, -155, 1, -78)
+btnRiscar.BackgroundColor3 = Color3.fromRGB(0, 200, 110)
+btnRiscar.Text = &quot;COMEÇAR A RISCAR!&quot;
+btnRiscar.TextColor3 = Color3.new(1, 1, 1)
+btnRiscar.Font = Enum.Font.GothamBlack
+btnRiscar.TextSize = 21
+btnRiscar.Parent = gui
+Arredondar(btnRiscar, 16)
+Borda(btnRiscar, Color3.new(1, 1, 1), 2.5)
+
+btnRiscar.MouseButton1Click:Connect(function()
+	ToggleRiscar:FireServer()
+end)
+
+-- Painel Esquerdo: Evolucoes e Upgrades
+local leftPanel = Instance.new(&quot;Frame&quot;)
+leftPanel.Size = UDim2.new(0, 225, 0, 310)
+leftPanel.Position = UDim2.new(0, 14, 0.5, -155)
+leftPanel.BackgroundColor3 = Color3.fromRGB(25, 28, 38)
+leftPanel.BackgroundTransparency = 0.12
+leftPanel.Parent = gui
+Arredondar(leftPanel, 14)
+Borda(leftPanel, Color3.fromRGB(255, 185, 60), 2)
+
+local function CriarBotaoMenu(parent, yPos, cor, textoInicial)
+	local btn = Instance.new(&quot;TextButton&quot;)
+	btn.Size = UDim2.new(1, -20, 0, 64)
+	btn.Position = UDim2.new(0, 10, 0, yPos)
+	btn.BackgroundColor3 = cor
+	btn.Text = textoInicial
+	btn.TextColor3 = Color3.new(1, 1, 1)
+	btn.Font = Enum.Font.GothamBold
+	btn.TextSize = 13
+	btn.TextWrapped = true
+	btn.Parent = parent
+	Arredondar(btn, 10)
+	return btn
+end
+
+local btnLapis = CriarBotaoMenu(leftPanel, 12, Color3.fromRGB(230, 125, 30), &quot;EVOLUIR LÁPIS\nCarregando...&quot;)
+local btnVel = CriarBotaoMenu(leftPanel, 86, Color3.fromRGB(40, 145, 235), &quot;UPGRADE VELOCIDADE\nNível 1&quot;)
+local btnArea = CriarBotaoMenu(leftPanel, 160, Color3.fromRGB(145, 75, 230), &quot;NOVA ÁREA\nCarregando...&quot;)
+local btnRebirth = CriarBotaoMenu(leftPanel, 234, Color3.fromRGB(220, 55, 95), &quot;PASSAR DE ANO (Rebirth)\nCusto: 5000&quot;)
+
+btnLapis.MouseButton1Click:Connect(function() ComprarLapis:FireServer() end)
+btnVel.MouseButton1Click:Connect(function() ComprarVelocidade:FireServer() end)
+btnArea.MouseButton1Click:Connect(function() DesbloquearArea:FireServer() end)
+btnRebirth.MouseButton1Click:Connect(function() FazerRebirth:FireServer() end)
+
+-- Painel Direito: Estojos Surpresa (Ovos de Pets)
+local rightPanel = Instance.new(&quot;Frame&quot;)
+rightPanel.Size = UDim2.new(0, 225, 0, 255)
+rightPanel.Position = UDim2.new(1, -239, 0.5, -128)
+rightPanel.BackgroundColor3 = Color3.fromRGB(25, 28, 38)
+rightPanel.BackgroundTransparency = 0.12
+rightPanel.Parent = gui
+Arredondar(rightPanel, 14)
+Borda(rightPanel, Color3.fromRGB(0, 230, 180), 2)
+
+local titlePets = Instance.new(&quot;TextLabel&quot;)
+titlePets.Size = UDim2.new(1, 0, 0, 32)
+titlePets.BackgroundTransparency = 1
+titlePets.Text = &quot;ESTOJOS DE PETS&quot;
+titlePets.TextColor3 = Color3.fromRGB(0, 240, 190)
+titlePets.Font = Enum.Font.GothamBlack
+titlePets.TextSize = 15
+titlePets.Parent = rightPanel
+
+local btnEstojo1 = CriarBotaoMenu(rightPanel, 38, Color3.fromRGB(35, 175, 130), &quot;ABRIR ESTOJO ESCOLAR\nCusto: 100 Moedas&quot;)
+local btnEstojo2 = CriarBotaoMenu(rightPanel, 110, Color3.fromRGB(120, 60, 210), &quot;ABRIR ESTOJO CÓSMICO\nCusto: 2.500 Moedas&quot;)
+
+local lblPetsAtivos = Instance.new(&quot;TextLabel&quot;)
+lblPetsAtivos.Size = UDim2.new(1, -16, 0, 65)
+lblPetsAtivos.Position = UDim2.new(0, 8, 0, 182)
+lblPetsAtivos.BackgroundColor3 = Color3.fromRGB(18, 20, 28)
+lblPetsAtivos.Text = &quot;Pets Equipados: Nenhum&quot;
+lblPetsAtivos.TextColor3 = Color3.fromRGB(220, 220, 235)
+lblPetsAtivos.Font = Enum.Font.Gotham
+lblPetsAtivos.TextSize = 12
+lblPetsAtivos.TextWrapped = true
+lblPetsAtivos.Parent = rightPanel
+Arredondar(lblPetsAtivos, 8)
+
+btnEstojo1.MouseButton1Click:Connect(function() AbrirEstojo:FireServer(1) end)
+btnEstojo2.MouseButton1Click:Connect(function() AbrirEstojo:FireServer(2) end)
+
+-- Popup Animado de Sorteio de Pet
+local popupPet = Instance.new(&quot;Frame&quot;)
+popupPet.Size = UDim2.new(0, 340, 0, 140)
+popupPet.Position = UDim2.new(0.5, -170, 0.35, -70)
+popupPet.BackgroundColor3 = Color3.fromRGB(30, 25, 55)
+popupPet.Visible = false
+popupPet.Parent = gui
+Arredondar(popupPet, 18)
+Borda(popupPet, Color3.fromRGB(255, 220, 80), 3)
+
+local lblPopup = Instance.new(&quot;TextLabel&quot;)
+lblPopup.Size = UDim2.new(1, -20, 1, -20)
+lblPopup.Position = UDim2.new(0, 10, 0, 10)
+lblPopup.BackgroundTransparency = 1
+lblPopup.Text = &quot;NOVO PET!&quot;
+lblPopup.TextColor3 = Color3.new(1, 1, 1)
+lblPopup.Font = Enum.Font.GothamBlack
+lblPopup.TextSize = 19
+lblPopup.TextWrapped = true
+lblPopup.Parent = popupPet
+
+PetSorteado.OnClientEvent:Connect(function(nome, raridade, mult)
+	lblPopup.Text = &quot;ESTOJO ABERTO!\n[&quot; .. string.upper(raridade) .. &quot;]\n&quot; .. nome .. &quot; (x&quot; .. mult .. &quot; Moedas)&quot;
+	popupPet.Visible = true
+	popupPet.Size = UDim2.new(0, 100, 0, 40)
+	local tw = TweenService:Create(popupPet, TweenInfo.new(0.35, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {Size = UDim2.new(0, 340, 0, 140)})
+	tw:Play()
+	task.delay(2.8, function()
+		popupPet.Visible = false
+	end)
+end)
+
+Notificar.OnClientEvent:Connect(function(msg)
+	lblNotif.Text = msg
+end)
+
+AtualizarHUD.OnClientEvent:Connect(function(dados)
+	lblStats.Text = &quot;Moedas: &quot; .. dados.Moedas .. &quot; | Recorde: &quot; .. dados.Recorde .. &quot;m | Mult: x&quot; .. dados.MultTotal
+	lblEquipado.Text = dados.LapisNome .. &quot; (Ano &quot; .. dados.Rebirths .. &quot;) | Área: &quot; .. dados.AreaNome
+
+	local pct = math.clamp(dados.TintaAtual / math.max(1, dados.TintaMax), 0, 1)
+	tintaBar.Size = UDim2.new(pct, 0, 1, 0)
+	tintaBar.BackgroundColor3 = (pct &gt; 0.3) and Color3.fromRGB(0, 220, 140) or Color3.fromRGB(255, 75, 75)
+	lblTinta.Text = &quot;TINTA: &quot; .. math.floor(dados.TintaAtual) .. &quot; / &quot; .. dados.TintaMax .. &quot; (&quot; .. math.floor(dados.DistanciaAtual) .. &quot;m)&quot;
+
+	if dados.Riscando then
+		btnRiscar.BackgroundColor3 = Color3.fromRGB(235, 65, 65)
+		btnRiscar.Text = &quot;PARAR E COLETAR MOEDAS&quot;
+	else
+		btnRiscar.BackgroundColor3 = Color3.fromRGB(0, 200, 110)
+		btnRiscar.Text = &quot;COMEÇAR A RISCAR!&quot;
+	end
+
+	if dados.ProxLapisCusto &gt; 0 then
+		btnLapis.Text = &quot;EVOLUIR LÁPIS\n&quot; .. dados.ProxLapisNome .. &quot; (&quot; .. dados.ProxLapisCusto .. &quot; Moedas)&quot;
+	else
+		btnLapis.Text = &quot;LÁPIS NO NÍVEL MÁXIMO!&quot;
+	end
+
+	btnVel.Text = &quot;UPGRADE VELOCIDADE (Nv.&quot; .. dados.VelocidadeNivel .. &quot;)\nCusto: &quot; .. dados.VelocidadeCusto .. &quot; Moedas&quot;
+
+	if dados.ProxAreaCusto &gt; 0 then
+		btnArea.Text = &quot;DESBLOQUEAR ÁREA\n&quot; .. dados.ProxAreaNome .. &quot; (&quot; .. dados.ProxAreaCusto .. &quot; Moedas)&quot;
+	else
+		btnArea.Text = &quot;TODAS AS ÁREAS ABERTAS!&quot;
+	end
+
+	btnRebirth.Text = &quot;PASSAR DE ANO (Rebirth #&quot; .. (dados.Rebirths + 1) .. &quot;)\nCusto: &quot; .. dados.RebirthCusto .. &quot; Moedas&quot;
+
+	if #dados.Pets &gt; 0 then
+		local lista = {}
+		for _, p in ipairs(dados.Pets) do
+			table.insert(lista, p.Nome .. &quot; (x&quot; .. p.Mult .. &quot;)&quot;)
+		end
+		lblPetsAtivos.Text = &quot;Equipados: &quot; .. table.concat(lista, &quot;, &quot;)
+	else
+		lblPetsAtivos.Text = &quot;Pets Equipados: Nenhum&quot;
+	end
+end)
+</ProtectedString>
+        </Properties>
+      </Item>
+    </Item>
+  </Item>
+  <Item class="ReplicatedStorage" referent="RBX7">
+    <Properties>
+      <string name="Name">ReplicatedStorage</string>
+    </Properties>
+  </Item>
+  <Item class="Lighting" referent="RBX8">
+    <Properties>
+      <string name="Name">Lighting</string>
+      <float name="ClockTime">14.5</float>
+      <float name="Brightness">2.2</float>
+    </Properties>
+  </Item>
+</roblox>
